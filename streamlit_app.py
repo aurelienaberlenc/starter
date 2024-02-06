@@ -1,4 +1,5 @@
 import streamlit as st
+import langchain
 
 st.title('🎈 App Name')
 
