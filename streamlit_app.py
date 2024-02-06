@@ -19,3 +19,5 @@ except ImportError:
 st.title('🎈 App Name')
 
 st.write('Hello world!')
+
+from langchain import Openai
